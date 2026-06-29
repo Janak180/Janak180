@@ -28,6 +28,6 @@
 
 ### 🔥 My Stats
 
-![GitHub Streak](https://herokuapp.com)
+![GitHub Streak](https://demolab.com)
 
 ![Top Langs](https://vercel.app)
