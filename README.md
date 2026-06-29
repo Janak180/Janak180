@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -12,27 +12,21 @@
 
 ---
 
-### 👩‍💻 About Me :
-
-## Adding Soon
-<!-- - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time, I solve problems and read tech articles.
-- 📬 How to reach me: [LinkedIn](https://linkedin.com) -->
+### 👩‍💻 About Me
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <div align="left">
-  <img src="https://jsdelivr.net" title="CSS3" alt="CSS" width="45" height="45"/> 
-  <img src="https://jsdelivr.net" title="HTML5" alt="HTML" width="45" height="45"/> 
-  <img src="https://jsdelivr.net" title="JavaScript" alt="JavaScript" width="45" height="45"/> 
-  <img src="https://jsdelivr.net" title="React" alt="React" width="45" height="45"/> 
-  <img src="https://jsdelivr.net" title="MySQL" alt="MySQL" width="45" height="45"/> 
-  <img src="https://jsdelivr.net" title="NodeJS" alt="NodeJS" width="45" height="45"/> 
-  <img src="https://jsdelivr.net" title="AWS" alt="AWS" width="45" height="45"/> 
-  <img src="https://jsdelivr.net" title="Git" alt="Git" width="45" height="45"/>
+  <img src="https://shields.io" alt="CSS3"/>
+  <img src="https://shields.io" alt="HTML5"/>
+  <img src="https://shields.io" alt="JavaScript"/>
+  <img src="https://shields.io" alt="React"/>
+  <img src="https://shields.io" alt="MySQL"/>
+  <img src="https://shields.io" alt="Node.js"/>
+  <img src="https://shields.io" alt="AWS"/>
+  <img src="https://shields.io" alt="Git"/>
 </div>
 
 ---
