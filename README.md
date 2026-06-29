@@ -1,42 +1,33 @@
-<div id="header" align="center">
-  <img src="https://giphy.com" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-## Hi there 👋
+# Hi there 👋
 
 ---
 
 ### 👩‍💻 About Me
 
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
 ---
 
 ### 🛠️ Languages and Tools
 
-<div align="left">
-  <img src="https://shields.io" alt="CSS3"/>
-  <img src="https://shields.io" alt="HTML5"/>
-  <img src="https://shields.io" alt="JavaScript"/>
-  <img src="https://shields.io" alt="React"/>
-  <img src="https://shields.io" alt="MySQL"/>
-  <img src="https://shields.io" alt="Node.js"/>
-  <img src="https://shields.io" alt="AWS"/>
-  <img src="https://shields.io" alt="Git"/>
-</div>
+![CSS3](https://shields.io)
+![HTML5](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![MySQL](https://shields.io)
+![Node.js](https://shields.io)
+![AWS](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
 ### 🔥 My Stats
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://herokuapp.com)
 
-<p align="center">
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
+![Top Langs](https://vercel.app)
